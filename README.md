@@ -13,5 +13,5 @@ a collection of games and game development tools in flutter.
 
 
 # Please cooperate
-add your games and tools 
+add your games and tools or you know them
 tnx a lot
