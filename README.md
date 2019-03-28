@@ -1,5 +1,5 @@
 # fluttergames
-a collection of games and game development in flutter.
+a collection of games and game development tools in flutter.
 
 # frameworks
 - [flame](https://github.com/luanpotter/flame)
