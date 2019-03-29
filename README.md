@@ -8,7 +8,7 @@ a collection of games and game development tools in Google [flutter](https://flu
 
 # games
  - [flutter galaxy game](https://github.com/GeekyAnts/flutter-galaxy-game) with flutter & [flame](https://github.com/luanpotter/flame)
- - [T-rex](https://github.com/renancaraujo/trex-flame)
+ - [T-rex](https://github.com/renancaraujo/trex-flame) with flutter & [flame](https://github.com/luanpotter/flame)
 
 
 
